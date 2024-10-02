@@ -4,7 +4,7 @@
 * Presentación: ```presentation/Parte 2.pdf```
 
 
-## Configurar entorno de desarrollo
+## Para correr Jupyter Notebook:
 
 1. Crear y activar *virtual environment*
    
