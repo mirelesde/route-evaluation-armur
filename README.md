@@ -1,4 +1,8 @@
 # Evaluación de Rutas
+## Archivos importantes
+* Código: ```evaluacion_de_rutas.ipynb```
+* Presentación: ```presentation/Parte 2.pdf```
+
 
 ## Configurar entorno de desarrollo
 
