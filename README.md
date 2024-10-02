@@ -4,7 +4,7 @@
 * Presentación: ```presentation/Parte 2.pdf```
 
 
-## Para correr Jupyter Notebook:
+## Para correr Jupyter Notebook
 
 1. Crear y activar *virtual environment*
    
